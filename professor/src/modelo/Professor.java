@@ -52,5 +52,13 @@ public class Professor {
         return "Professor{" + "nome=" + nome + '}';
     }
 
+    public void setnome(String text) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public void setsobrenome(String text) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     
 }
